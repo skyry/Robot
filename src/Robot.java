@@ -1,10 +1,10 @@
 public class Robot {
 
     // Текущая координата Х
-    int x = 0;
+    double x = 0;
 
     // Текущая координата Y
-    int y = 0;
+    double y = 0;
 
     // Текущий курс (в градусах)
     int course = 0;
